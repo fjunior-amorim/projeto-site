@@ -6,10 +6,24 @@
 body {
 background-color: cornflowerblue;
 }
+header {
+    text-align: center;
+}
+section {
+    text-align: center;
+   
+}
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
 }
-p {
-    color: beige;
+div {
+    color: rgb(255, 255, 255);
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+div h2 {
+    color: rgb(13, 0, 255);
 }
